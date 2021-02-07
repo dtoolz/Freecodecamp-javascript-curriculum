@@ -1,0 +1,11 @@
+Basic JavaScript: Storing Values with the Assignment OperatorPassed
+
+Assign the value 7 to variable a.
+
+
+*** solution ***
+// Setup
+var a;
+
+// Only change code below this line
+ a = 7;
