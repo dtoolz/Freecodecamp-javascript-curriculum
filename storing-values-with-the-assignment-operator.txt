@@ -1,4 +1,4 @@
-Basic JavaScript: Storing Values with the Assignment OperatorPassed
+Basic JavaScript: Storing Values with the Assignment Operator
 
 Assign the value 7 to variable a.
 
