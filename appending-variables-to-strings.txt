@@ -1,0 +1,13 @@
+//Appending Variables to StringsPassed
+
+
+//Set someAdjective to a string of at least 3 characters and append it to myStr using the += operator.
+
+
+//solution
+
+// Change code below this line
+
+var someAdjective = 'terrific.';
+var myStr = "Learning to code is ";
+  myStr += someAdjective;
