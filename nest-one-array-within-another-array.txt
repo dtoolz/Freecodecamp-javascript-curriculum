@@ -1,0 +1,8 @@
+//Nest one Array within Another Array
+
+//Create a nested array called myArray
+
+//solution
+
+// Only change code below this line
+var myArray = [[45, 24], []];
