@@ -1,0 +1,9 @@
+//Find More Than the First Match
+
+//Using the regex starRegex, find and extract both Twinkle words from the string twinkleStar.
+
+//solution
+
+let twinkleStar = "Twinkle, twinkle, little star";
+let starRegex = /twinkle/gi; 
+let result = twinkleStar.match(starRegex); 
